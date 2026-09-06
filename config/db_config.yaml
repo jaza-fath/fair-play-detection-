@@ -1,0 +1,22 @@
+# Database Configuration
+
+# SQL Database (PostgreSQL)
+sql:
+  host: "localhost"
+  port: 5432
+  database: "fairplay_db"
+  username: "admin"
+  password: "your_password"
+  pool_size: 10
+  max_overflow: 20
+
+# NoSQL Database (MongoDB)
+nosql:
+  host: "localhost"
+  port: 27017
+  database: "fairplay_logs"
+  username: "admin"
+  password: "your_password"
+  collection_players: "player_activity"
+  collection_alerts: "alert_logs"
+  collection_hashes: "file_hashes"

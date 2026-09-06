@@ -1,0 +1,64 @@
+# Main Configuration File
+
+project:
+  name: "AI Fair Play Detection System"
+  version: "1.0.0"
+  environment: "development"  # development / production
+
+# Model Configuration
+model:
+  anomaly_detection:
+    algorithm: "isolation_forest"
+    contamination: 0.1
+    n_estimators: 100
+    random_state: 42
+  
+  classification:
+    algorithm: "random_forest"
+    n_estimators: 200
+    max_depth: 10
+    random_state: 42
+    test_size: 0.2
+  
+  training:
+    epochs: 50
+    batch_size: 32
+    learning_rate: 0.001
+    validation_split: 0.2
+
+# Monitoring Configuration
+monitoring:
+  real_time: true
+  alert_threshold: 0.85      # Confidence score to trigger alert
+  check_interval: 5          # Seconds between checks
+  max_players_monitored: 100
+
+# File Integrity Configuration
+file_integrity:
+  hash_algorithm: "SHA-256"
+  scan_interval: 300         # Seconds between file scans
+  game_files_path: "./game_files/"
+  hash_storage_path: "./data/file_hashes/"
+
+# Logging Configuration
+logging:
+  level: "INFO"              # DEBUG / INFO / WARNING / ERROR
+  player_log_path: "./logs/player_logs/"
+  alert_log_path: "./logs/alert_logs/"
+  system_log_path: "./logs/system_logs/"
+  max_log_size: "10MB"
+  backup_count: 5
+
+# Dashboard Configuration
+dashboard:
+  host: "0.0.0.0"
+  port: 8050
+  debug: true
+  refresh_interval: 3000     # Milliseconds
+
+# Alert Configuration
+alerts:
+  email_enabled: false
+  email_recipient: "admin@esports.com"
+  auto_restrict: true        # Automatically restrict flagged players
+  restriction_duration: 24   # Hours

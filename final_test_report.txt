@@ -1,0 +1,24 @@
+======================================================================
+AI-BASED FAIR PLAY DETECTION SYSTEM
+FINAL INTEGRATION TEST REPORT
+======================================================================
+Generated At: 2026-06-15 19:07:01
+
+FILE CHECK RESULTS
+----------------------------------------------------------------------
+All required files are present.
+
+MODULE EXECUTION RESULTS
+----------------------------------------------------------------------
+PASS: src/data_collection/generate_gameplay_data.py
+PASS: src/preprocessing/preprocess_gameplay_data.py
+PASS: src/anomaly_detection/train_anomaly_model.py
+PASS: src/file_integrity/file_integrity_checker.py
+PASS: src/classification/train_classification_model.py
+PASS: src/explainable_ai/explain_player_prediction.py
+PASS: src/database/database_manager.py
+
+FINAL STATUS
+----------------------------------------------------------------------
+SYSTEM STATUS: READY
+All core modules executed successfully.

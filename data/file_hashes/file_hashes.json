@@ -1,0 +1,31 @@
+{
+    "timestamp": "2026-09-05 04:11:56.555341",
+    "total_files": 5,
+    "files": {
+        "game_files/anti_cheat.dll": {
+            "hash": "e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443",
+            "size": 25,
+            "last_modified": "2026-09-05 04:11:56.508139"
+        },
+        "game_files/game_assets.pak": {
+            "hash": "89e2d8bc0e60e8ee00425b64fdc1d86d91077c3756d04a567633e5aa5a536e17",
+            "size": 24,
+            "last_modified": "2026-09-05 04:11:56.508139"
+        },
+        "game_files/game_engine.dll": {
+            "hash": "ace12bebd7662d9225808cfbf4a8dfd247f7800c89c27a6de530c683fcbcee48",
+            "size": 28,
+            "last_modified": "2026-09-05 04:11:56.507138"
+        },
+        "game_files/network_module.dll": {
+            "hash": "7ba0e5cf96f75770e40341d193de8a6b577af8d2b587f7380744f0b24d4209bf",
+            "size": 22,
+            "last_modified": "2026-09-05 04:11:56.509138"
+        },
+        "game_files/player_config.cfg": {
+            "hash": "96372720236f0791a601df175bd7bcb3331ebe8aa41e77cee3415a6e2380a1b5",
+            "size": 25,
+            "last_modified": "2026-09-05 04:11:56.507138"
+        }
+    }
+}

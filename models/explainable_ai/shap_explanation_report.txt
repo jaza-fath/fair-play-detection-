@@ -1,0 +1,20 @@
+============================================================
+Explainable AI - SHAP Explanation
+============================================================
+Selected Player Index : 15
+Actual Label          : Cheater
+Predicted Label       : Cheater
+Fair Probability      : 0.00%
+Cheat Probability     : 100.00%
+
+Top Feature Contributions:
+resources_collected       | value = 2.3343 | SHAP = 0.2845 | pushes toward CHEATER
+headshots                 | value = 1.2443 | SHAP = 0.2279 | pushes toward CHEATER
+avg_reaction_time_ms      | value = -1.8358 | SHAP = 0.0554 | pushes toward CHEATER
+headshot_ratio            | value = 0.9936 | SHAP = 0.0482 | pushes toward CHEATER
+damage_done               | value = 1.7042 | SHAP = 0.0475 | pushes toward CHEATER
+kills                     | value = 1.5580 | SHAP = 0.0449 | pushes toward CHEATER
+accuracy                  | value = 1.2207 | SHAP = 0.0356 | pushes toward CHEATER
+kd_ratio                  | value = 0.2567 | SHAP = 0.0197 | pushes toward CHEATER
+hit_rate                  | value = 1.2283 | SHAP = 0.0166 | pushes toward CHEATER
+shots_hit                 | value = 1.2542 | SHAP = 0.0089 | pushes toward CHEATER

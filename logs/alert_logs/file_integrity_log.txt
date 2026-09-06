@@ -1,0 +1,96 @@
+
+========================================
+File Integrity Check
+Timestamp: 2026-06-15 14:50:28.910137
+========================================
+Modified Files : 1
+New Files      : 0
+Deleted Files  : 0
+Clean Files    : 4
+Total Suspicious: 1
+========================================
+
+MODIFIED FILES:
+  - game_files/anti_cheat.dll
+    Stored Hash : e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443
+    Current Hash: e3552026f2f8ca2e43136f7adc608835206b5c38e085fe8df7afc8495f32d3d7
+
+========================================
+File Integrity Check
+Timestamp: 2026-06-15 17:36:27.506014
+========================================
+Modified Files : 1
+New Files      : 0
+Deleted Files  : 0
+Clean Files    : 4
+Total Suspicious: 1
+========================================
+
+MODIFIED FILES:
+  - game_files/anti_cheat.dll
+    Stored Hash : e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443
+    Current Hash: e3552026f2f8ca2e43136f7adc608835206b5c38e085fe8df7afc8495f32d3d7
+
+========================================
+File Integrity Check
+Timestamp: 2026-06-15 18:50:38.946039
+========================================
+Modified Files : 1
+New Files      : 0
+Deleted Files  : 0
+Clean Files    : 4
+Total Suspicious: 1
+========================================
+
+MODIFIED FILES:
+  - game_files/anti_cheat.dll
+    Stored Hash : e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443
+    Current Hash: e3552026f2f8ca2e43136f7adc608835206b5c38e085fe8df7afc8495f32d3d7
+
+========================================
+File Integrity Check
+Timestamp: 2026-06-15 18:59:12.677448
+========================================
+Modified Files : 1
+New Files      : 0
+Deleted Files  : 0
+Clean Files    : 4
+Total Suspicious: 1
+========================================
+
+MODIFIED FILES:
+  - game_files/anti_cheat.dll
+    Stored Hash : e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443
+    Current Hash: e3552026f2f8ca2e43136f7adc608835206b5c38e085fe8df7afc8495f32d3d7
+
+========================================
+File Integrity Check
+Timestamp: 2026-06-15 19:06:46.511559
+========================================
+Modified Files : 1
+New Files      : 0
+Deleted Files  : 0
+Clean Files    : 4
+Total Suspicious: 1
+========================================
+
+MODIFIED FILES:
+  - game_files/anti_cheat.dll
+    Stored Hash : e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443
+    Current Hash: e3552026f2f8ca2e43136f7adc608835206b5c38e085fe8df7afc8495f32d3d7
+
+========================================
+File Integrity Check
+Timestamp: 2026-09-05 04:11:56.576858
+========================================
+Modified Files : 1
+New Files      : 0
+Deleted Files  : 0
+Clean Files    : 4
+Total Suspicious: 1
+========================================
+
+MODIFIED FILES:
+  - game_files/anti_cheat.dll
+    Stored Hash : e1cacfd4d09b75a08282fc7ed35bce9511519ccdbb471a5cd984b8e004cfd443
+    Current Hash: e3552026f2f8ca2e43136f7adc608835206b5c38e085fe8df7afc8495f32d3d7
